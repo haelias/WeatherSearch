@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WeatherSearch/static/css/main.0db35c88.chunk.css",
+    "main.js": "/WeatherSearch/static/js/main.51bcbff5.chunk.js",
+    "main.js.map": "/WeatherSearch/static/js/main.51bcbff5.chunk.js.map",
+    "runtime-main.js": "/WeatherSearch/static/js/runtime-main.e9dd6526.js",
+    "runtime-main.js.map": "/WeatherSearch/static/js/runtime-main.e9dd6526.js.map",
+    "static/js/2.c593453c.chunk.js": "/WeatherSearch/static/js/2.c593453c.chunk.js",
+    "static/js/2.c593453c.chunk.js.map": "/WeatherSearch/static/js/2.c593453c.chunk.js.map",
+    "static/js/3.2ed97d72.chunk.js": "/WeatherSearch/static/js/3.2ed97d72.chunk.js",
+    "static/js/3.2ed97d72.chunk.js.map": "/WeatherSearch/static/js/3.2ed97d72.chunk.js.map",
+    "index.html": "/WeatherSearch/index.html",
+    "static/css/main.0db35c88.chunk.css.map": "/WeatherSearch/static/css/main.0db35c88.chunk.css.map",
+    "static/js/2.c593453c.chunk.js.LICENSE.txt": "/WeatherSearch/static/js/2.c593453c.chunk.js.LICENSE.txt",
+    "static/media/deez.1c95b85d.png": "/WeatherSearch/static/media/deez.1c95b85d.png",
+    "static/media/raining.3c75ffd6.gif": "/WeatherSearch/static/media/raining.3c75ffd6.gif",
+    "static/media/sun.72cdcfb7.gif": "/WeatherSearch/static/media/sun.72cdcfb7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9dd6526.js",
+    "static/js/2.c593453c.chunk.js",
+    "static/css/main.0db35c88.chunk.css",
+    "static/js/main.51bcbff5.chunk.js"
+  ]
+}
